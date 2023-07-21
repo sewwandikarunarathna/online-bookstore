@@ -1,0 +1,35 @@
+h1{
+    color: #442233;
+}
+
+
+.signup{
+    background: #aa5555;
+    /* width:500px;
+    height:400px; */
+    display: flex;
+    /* position: absolute;
+  flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  padding: 100px;
+  margin: 100px;
+  }
+
+  .signup button{
+    margin: 10px;
+    padding: 10px;
+    width:250px;
+    font-weight: bold;
+    color: #442233;
+    background: #ccaaaa;
+  }
+
+  .signup input{
+    margin: 10px;
+    padding: 10px;
+    width:250px;
+    color: #442233;
+    background: #ccaaaa;
+    
+  }
