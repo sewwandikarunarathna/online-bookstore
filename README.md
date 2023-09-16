@@ -1,7 +1,7 @@
 # online-bookstore
 ReactJS, MySQL app for storing best selling books in New York
 
-#Screenshots
+# Screenshots
 
 ## Home Page
 
